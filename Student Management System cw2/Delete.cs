@@ -24,10 +24,10 @@ namespace Student_Management_System_cw2
                 string q = "Delete from Student where studentID ='" + txt_delSID.Text + "'";
                 int c = obj.insert_update_delete_view(q);
                 if (c == 1)
-                    MessageBox.Show(this, "Data delete Successfully", "Information", MessageBoxButtons.OK,
+                    MessageBox.Show(this, "Delete Successfully", "Information", MessageBoxButtons.OK,
                     MessageBoxIcon.Information);
                 else
-                    MessageBox.Show(this, "Data Cannot delete", "Error", MessageBoxButtons.OK,
+                    MessageBox.Show(this, "Cannot delete", "Error", MessageBoxButtons.OK,
                     MessageBoxIcon.Error);
             }
             catch (Exception)
