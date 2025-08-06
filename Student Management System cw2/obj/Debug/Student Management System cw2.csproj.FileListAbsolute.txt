@@ -1,0 +1,94 @@
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\Student Management System cw2.exe.config
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\Student Management System cw2.exe
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\Student Management System cw2.pdb
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\obj\Debug\Student Management System cw2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\obj\Debug\Student_Management_System_cw2.Login_menu.resources
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\obj\Debug\Student_Management_System_cw2.Properties.Resources.resources
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\obj\Debug\Student Management System cw2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\obj\Debug\Student Management System cw2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\obj\Debug\Student Management System cw2.exe
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\obj\Debug\Student Management System cw2.pdb
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\obj\Debug\Student_Management_System_cw2.Course_view.resources
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\obj\Debug\Student_Management_System_cw2.Delete.resources
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\obj\Debug\Student_Management_System_cw2.Main_Page.resources
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\obj\Debug\Student_Management_System_cw2.New_Course.resources
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\obj\Debug\Student_Management_System_cw2.New_Lecturer.resources
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\obj\Debug\Student_Management_System_cw2.QRcode.resources
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\obj\Debug\Student_Management_System_cw2.Register.resources
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\obj\Debug\Student_Management_System_cw2.student_report.resources
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\obj\Debug\Student_Management_System_cw2.Update.resources
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\obj\Debug\Student_Management_System_cw2.Update_course.resources
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\obj\Debug\Student_Management_System_cw2.Update_lecturer.resources
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\obj\Debug\Student_Management_System_cw2.View_Lecturer.resources
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\obj\Debug\Student_Management_System_cw2.Exam_results.resources
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\obj\Debug\Student_Management_System_cw2.Result_View.resources
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\obj\Debug\Student_Management_System_cw2.Student_View.resources
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\MetroFramework.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\obj\Debug\Student Management System cw2.csproj.CopyComplete
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\QRCoder.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\EnvDTE.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\stdole.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\Microsoft.MSXML.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\obj\Debug\RdlCompile.cache
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\obj\Debug\RdlCompile.compiled
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\Student Management System cw2.exe.manifest
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\bin\Debug\Student Management System cw2.application
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\obj\Debug\Student Management System cw2.exe.manifest
+C:\Users\User\source\repos\Student Management System cw2\Student Management System cw2\obj\Debug\Student Management System cw2.application
