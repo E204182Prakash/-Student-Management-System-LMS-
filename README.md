@@ -17,6 +17,6 @@ QR Code Generator added for this college name
 Azure cloud computing – Cloud database linked with this software
 Metro framework
 
-
+C# Project
 
 
